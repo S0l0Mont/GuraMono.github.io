@@ -1,1 +1,1 @@
-# GuraMono.github.io
+# GuraMono
